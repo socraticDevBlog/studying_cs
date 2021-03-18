@@ -1,6 +1,6 @@
-# studying computer science
+# Etudier le Computer Science & Engineering
 
-## datastructures
+## structures de données (data structures)
 
 1. [native types](datastructures/native_types.md)
 2. [arrays](datastructures/arrays.md)
@@ -13,7 +13,7 @@
 9. graphs
 10. trie
 
-## algorithmics
+## Algorithmes
 
 1. big O notation
 2. recursion
