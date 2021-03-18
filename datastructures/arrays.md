@@ -26,7 +26,7 @@ rechercher:
         - si la valeur à l'index est celle recherchée, alors retourner la valeur de l'itérateur
 
 modifier (update):  
-    1. index est connu: ``tableau[index] = nouvelleValeur``
+    1. index est connu: ``tableau[index] = nouvelleValeur``  
     2. valeur est connue: 
         - traverser le tableau et trouver l'index de la valeur à remplacer  
         - ``tableau[index] = nouvelleValeur``
