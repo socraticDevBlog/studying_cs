@@ -26,10 +26,10 @@ rechercher:
         - si la valeur à l'index est celle recherchée, alors retourner la valeur de l'itérateur
 
 modifier (update):  
-    1. index est connu: ``tableau[index] = nouvelleValeur```  
+    1. index est connu: ``tableau[index] = nouvelleValeur``
     2. valeur est connue: 
         - traverser le tableau et trouver l'index de la valeur à remplacer  
-        - ``tableau[index] = nouvelleValeur```
+        - ``tableau[index] = nouvelleValeur``
 
 insertion:  
     1. créer un nouveau tableau plus grand que l'original (ex.: tailleTableau + 1)  
