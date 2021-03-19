@@ -1,6 +1,5 @@
-# Etudier le Computer Science & Engineering
-
-__Consulter en tant que page web:__[https://socraticdevblog.github.io/studying_cs/](https://socraticdevblog.github.io/studying_cs/)
+# Etudier le Computer Science & Engineering  
+[https://socraticdevblog.github.io/studying_cs/](https://socraticdevblog.github.io/studying_cs/)
 
 ## structures de données (data structures)
 
