@@ -1,5 +1,7 @@
 # Etudier le Computer Science & Engineering
 
+__Consulter en tant que page web:__[https://socraticdevblog.github.io/studying_cs/](https://socraticdevblog.github.io/studying_cs/)
+
 ## structures de données (data structures)
 
 1. [native types](datastructures/native_types.md)
