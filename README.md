@@ -4,7 +4,8 @@
 ## structures de données (data structures)
 
 1. [native types](datastructures/native_types.md)
-2. [arrays](datastructures/arrays.md)
+2. [arrays](datastructures/arrays.md)  
+    coding challenge [Apple stock](datastructures/problems/array_apple_stock.py)
 3. linked lists
 4. stacks
 5. queues
