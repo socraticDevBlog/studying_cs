@@ -5,7 +5,8 @@
 
 1. [native types](datastructures/native_types.md)
 2. [arrays](datastructures/arrays.md)  
-    coding challenge [Apple stock](datastructures/problems/array_apple_stock.py)
+     [Apple stock(challenge)](datastructures/problems/array_apple_stock.py)  
+    [Product of other numbres(challenge)](datastructures/problems/array_product_of_numbers.py)  
 3. linked lists
 4. stacks
 5. queues
