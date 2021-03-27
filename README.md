@@ -5,8 +5,7 @@
 
 1. [native types](datastructures/native_types.md)
 2. [arrays](datastructures/arrays.md)  
-     [Apple stock(challenge)](datastructures/problems/array_apple_stock.py)  
-    [Product of other numbres(challenge)](datastructures/problems/array_product_of_numbers.py)  
+
 3. linked lists
 4. stacks
 5. queues
@@ -35,3 +34,10 @@
     - Knuth-Morris-Pratt
 6. Combinatorial game-theory
 7. Memoization/dynamic programming
+
+## Exercices
+
+### datastructures (challenges)  
+1. [Apple stock](datastructures/problems/array_apple_stock.py)  
+2. [Product of other numbres](datastructures/problems/array_product_of_numbers.py) 
+3. [String permutations with recursion](/datastructures/problems/array_recursion.py) 
