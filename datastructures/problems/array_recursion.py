@@ -25,9 +25,9 @@ def permutate(result, letters, idx):
     if idx + 1 >= len(letters):
         return result
 
-    swapped_letters = swap(letters, idx, idx + 1)
-    result.append(listToString(swapped_letters))
-    permutate(result, swapped_letters, idx + 1)
+    letters[idx + 1], letters[idx] = letters[idx], letters[idx + 1]
+    result.append(listToString(letters))
+    permutate(result, letters, idx + 1)
 
 def listToString(list):
     str = ""
@@ -36,8 +36,3 @@ def listToString(list):
 
     return str
 
-def swap(list, a, b):
-    temp = list[a]
-    list[a] = list[b]
-    list[b] = temp
-    return list
