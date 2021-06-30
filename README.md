@@ -1,4 +1,13 @@
 <meta property="og:image" content="etudier_cs.png" />
+<meta name="description" content="Etudier computer science et software engineering">
+<meta property="og:url" content="https://cs.dailybuild.org">
+<meta property="og:type" content="website">
+<meta property="og:title" content="studying_cs">
+<meta property="og:description" content="Etudier le Computer Science & Engineering">
+<meta property="og:image" content="https://raw.githubusercontent.com/socraticDevBlog/studying_cs/main/etudier_cs.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@socraticDevBlog">
+<meta name="twitter:creator" content="@socraticDevBlog">
 
 # Etudier le Computer Science & Engineering  
 [https://cs.dailybuild.org/](https://cs.dailybuild.org/)
