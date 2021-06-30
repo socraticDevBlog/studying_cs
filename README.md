@@ -1,3 +1,5 @@
+<meta property="og:image" content="etudier_cs.png" />
+
 # Etudier le Computer Science & Engineering  
 [https://cs.dailybuild.org/](https://cs.dailybuild.org/)
 
@@ -43,3 +45,7 @@
 1. [Apple stock](datastructures/problems/array_apple_stock.py)  
 2. [Product of other numbers](datastructures/problems/array_product_of_numbers.py) 
 3. [String permutations with recursion](/datastructures/problems/array_recursion.py) 
+
+## sources
+
+[Grokking Algorithms : An illustrated guide for programmers and other curious people](https://www.manning.com/books/grokking-algorithms)
