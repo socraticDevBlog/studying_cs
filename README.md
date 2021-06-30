@@ -48,6 +48,7 @@
 1. [Apple stock](datastructures/problems/array_apple_stock.py)
 2. [Product of other numbers](datastructures/problems/array_product_of_numbers.py)
 3. [String permutations with recursion](/datastructures/problems/array_recursion.py)
+4. [Binary search worse cases](/algorithmics/problems/binaryS_1.py)
 
 ## sources
 
