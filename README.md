@@ -4,12 +4,13 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="studying_cs">
 <meta property="og:description" content="Etudier le Computer Science & Engineering">
-<meta property="og:image" content="https://raw.githubusercontent.com/socraticDevBlog/studying_cs/main/etudier_cs.png">
+<meta property="og:image" content="https://github.com/socraticDevBlog/studying_cs/blob/main/etudier_cs.png?raw=true">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@socraticDevBlog">
 <meta name="twitter:creator" content="@socraticDevBlog">
-<meta name="twitter:title" content="studying_cs: Étudier le Computer Science et Software Engineering">
-<meta name="twitter:description" content="Etudier le Computer Science & Engineering">
+<meta name="twitter:title" content="studying_cs: Computer Science et Software Engineering">
+<meta name="twitter:description" content="Site web GitHub pages - Etudier le Computer Science & Engineering">
+<meta name="twitter:image" conntent="https://github.com/socraticDevBlog/studying_cs/blob/main/etudier_cs.png?raw=true">
 
 
 # Etudier le Computer Science & Engineering  
