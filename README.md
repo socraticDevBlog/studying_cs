@@ -8,6 +8,9 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@socraticDevBlog">
 <meta name="twitter:creator" content="@socraticDevBlog">
+<meta name="twitter:title" content="studying_cs: Étudier le Computer Science et Software Engineering">
+<meta name="twitter:description" content="Etudier le Computer Science & Engineering">
+
 
 # Etudier le Computer Science & Engineering  
 [https://cs.dailybuild.org/](https://cs.dailybuild.org/)
