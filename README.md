@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Etudier le Computer Science & Engineering
 
 [https://cs.dailybuild.org/](https://cs.dailybuild.org/)
