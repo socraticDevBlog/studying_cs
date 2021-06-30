@@ -1,6 +1,9 @@
 # Etudier le Computer Science & Engineering  
 [https://cs.dailybuild.org/](https://cs.dailybuild.org/)
 
+## concepts de base
+1. [logarithmes](concepts/logarithmes.md)
+
 ## structures de données (data structures)
 
 1. [native types](datastructures/native_types.md)
