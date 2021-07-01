@@ -23,7 +23,7 @@
 
 ## Algorithmes
 
-1. big O notation
+1. [big O notation](concepts/big_o.md)
 2. recursion
 3. sorting
 4. searching
