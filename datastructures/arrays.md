@@ -11,9 +11,11 @@ la position d'un élément dans le tableau peut être calculée par une formule 
 forces:
     - récupérer une valeur par index se fait en un temps O(1). Toujours aussi rapide peu importe la grosseur de l'array
     - ajout rapide (si l'array à de l'espace libre)
+    - permet l'accès aléatoire (_random access_)
 
 faiblesses:
     - taille fixe. il faut spécifier la taille de l'array à l'avance
+      - donc peut-être gaspiller de l'espace mémoire si on réserve une trop grande taille
     - Ajout et suppression coûteux. On doit soit déplacer tous les items suivant l'index d'insertion. Si l'array n'a plus d'espace, il faut recopier tous les items dans un nouvel array plus grand. Dans le pire des cas: un temps de O(n).
 
 ## cas d'utilisation de l'array

@@ -14,7 +14,7 @@
 
 1. [native types](datastructures/native_types.md)
 2. [arrays](datastructures/arrays.md)
-3. linked lists
+3. [linked lists](datastructures/linked_lists.md)
 4. [stacks](datastructures/stacks.md)
 5. queues
 6. hash tables
