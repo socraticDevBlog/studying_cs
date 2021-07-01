@@ -29,6 +29,16 @@ Quant à l'algorithme de la recherche simple, s'il prenait 100ms à traiter une 
 
 > "Et c’est vraiment le truc important à comprendre. On ne mesure pas directement la vitesse d’un algorithme en secondes. On mesure le taux de croissance d’un algorithme via le nombre d’opérations qu’il faut pour terminer. C’est avec cette notation que la performance d’une solution est discutée entre développeurs."
 
+## big 0 communs
+
+    - O(log n), also known as log time. Example: Binary search.
+    - O(n), also known as linear time. Example: Simple search.
+    - O(n * log n). Example: A fast sorting algorithm, like quicksort (coming up in chapter 4).
+    - O(n2). Example: A slow sorting algorithm, like selection sort (coming up in chapter 2).
+    - O(n!). Example: A really slow algorithm, like the traveling salesperson (coming up next!).
+
 
 ## sources
 [https://www.jesuisundev.com/comprendre-la-notation-big-o-en-7-minutes/](https://www.jesuisundev.com/comprendre-la-notation-big-o-en-7-minutes/)
+
+grokking algorithms book
