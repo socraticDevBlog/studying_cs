@@ -7,6 +7,8 @@
 ## concepts de base
 
 1. [logarithmes](concepts/logarithmes.md)
+2. [big O notation](concepts/big_o.md)
+3. recursion
 
 ## structures de données (data structures)
 
@@ -23,8 +25,6 @@
 
 ## Algorithmes
 
-1. [big O notation](concepts/big_o.md)
-2. recursion
 3. sorting
 4. searching
 5. notable algorithms
